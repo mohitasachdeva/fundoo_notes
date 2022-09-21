@@ -1,0 +1,137 @@
+error: Could not connect to the database. querySrv ENODATA _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ENODATA","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ENODATA _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:279:19)","syscall":"querySrv","timestamp":"2022-09-16T15:46:57.791Z"}
+error: Could not connect to the database. querySrv ENODATA _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ENODATA","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ENODATA _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:279:19)","syscall":"querySrv","timestamp":"2022-09-16T15:51:05.689Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T15:53:42.481Z"}
+error: Could not connect to the database. querySrv ENODATA _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ENODATA","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ENODATA _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:279:19)","syscall":"querySrv","timestamp":"2022-09-16T15:53:43.162Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T15:54:50.492Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T15:55:04.465Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T15:58:49.492Z"}
+error: Could not connect to the database. querySrv ENODATA _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ENODATA","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ENODATA _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:279:19)","syscall":"querySrv","timestamp":"2022-09-16T15:58:49.543Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:04:02.308Z"}
+error: Could not connect to the database. querySrv ESERVFAIL _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ESERVFAIL","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ESERVFAIL _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:279:19)","syscall":"querySrv","timestamp":"2022-09-16T16:04:08.720Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:05:17.778Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:05:25.770Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:13:30.097Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:13:30.196Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:14:35.450Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:14:35.567Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:14:44.847Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:14:44.928Z"}
+error: 
+    status - 500 
+    message - ValidationError: "FisrtName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-16T16:24:04.090Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:25:23.782Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:25:23.869Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:25:54.722Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:25:54.831Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:26:27.697Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:26:27.782Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:26:49.067Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:26:49.168Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:27:01.793Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:27:01.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:27:23.018Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:27:23.214Z"}
+error: 
+    status - 500 
+    message - Error: The string type does not allow arguments
+    at new module.exports (C:\Users\HP\maishakhurana\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (C:\Users\HP\maishakhurana\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at Object.string (C:\Users\HP\maishakhurana\node_modules\@hapi\joi\lib\index.js:57:13)
+    at newUserValidator (C:\Users\HP\maishakhurana\src\validators\/user.validator.js:9:25)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\HP\maishakhurana\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\HP\maishakhurana\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\HP\maishakhurana\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\HP\maishakhurana\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\HP\maishakhurana\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/addUser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-16T16:27:52.723Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:28:50.965Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:28:51.109Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:29:08.426Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:29:08.494Z"}
+error: 
+    status - 500 
+    message - ValidationError: "FisrtName" is required 
+    url - /api/v1/users/addUser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-16T16:29:09.586Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:29:42.501Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:29:42.658Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:30:30.135Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:30:30.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:30:40.232Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:30:40.321Z"}
+error: 
+    status - 500 
+    message - ValidationError: "ConfirmPasswrd" is not allowed 
+    url - /api/v1/users/addUser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-16T16:31:04.937Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:31:52.610Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:31:52.763Z"}
+error: 
+    status - 500 
+    message - ValidationError: "FirstName" is required 
+    url - /api/v1/users/addUser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-16T16:33:40.908Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:34:27.748Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:34:27.847Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:34:50.295Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:34:50.435Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:34:57.485Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:34:57.645Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:35:18.742Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:35:18.815Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-16T16:37:54.256Z"}
+info: Connected to the database. {"timestamp":"2022-09-16T16:37:54.375Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "register" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Users\HP\maishakhurana\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\HP\maishakhurana\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/register 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-09-16T16:41:20.275Z"}

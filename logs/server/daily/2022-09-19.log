@@ -1,0 +1,698 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T04:31:13.143Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T04:31:13.276Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T04:31:41.064Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T04:31:41.250Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T08:12:49.110Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T08:12:49.211Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T09:54:30.176Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T09:54:30.223Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T09:59:55.832Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T09:59:55.868Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:03:56.047Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:03:56.078Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:10:40.923Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:10:40.964Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:12:11.966Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:12:12.030Z"}
+error: 
+    status - 500 
+    message - ValidationError: "FirstName" is required 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:13:09.210Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 61
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\HP\maishakhurana\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\HP\maishakhurana\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\HP\maishakhurana\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\HP\maishakhurana\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\HP\maishakhurana\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:14:31.987Z"}
+error: 
+    status - 500 
+    message - ValidationError: "FirstName" is required 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:14:50.236Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\HP\maishakhurana\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\HP\maishakhurana\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\HP\maishakhurana\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\HP\maishakhurana\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:9:29)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Users\HP\maishakhurana\src\services\/user.service.js:6:26)
+    at _callee$ (C:\Users\HP\maishakhurana\src\controllers\/user.controller.js:6:36)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at registerUser (C:\Users\HP\maishakhurana\src\controllers\/user.controller.js:4:26)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (C:\Users\HP\maishakhurana\src\validators\/user.validator.js:16:5)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\HP\maishakhurana\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\HP\maishakhurana\node_modules\body-parser\lib\read.js:137:5 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:15:14.177Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:16:45.356Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:16:45.405Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:17:18.570Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:17:18.608Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\HP\maishakhurana\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\HP\maishakhurana\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\HP\maishakhurana\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\HP\maishakhurana\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:9:29)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Users\HP\maishakhurana\src\services\/user.service.js:6:26)
+    at _callee$ (C:\Users\HP\maishakhurana\src\controllers\/user.controller.js:6:36)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at registerUser (C:\Users\HP\maishakhurana\src\controllers\/user.controller.js:4:26)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (C:\Users\HP\maishakhurana\src\validators\/user.validator.js:16:5)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\HP\maishakhurana\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\HP\maishakhurana\node_modules\body-parser\lib\read.js:137:5 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:17:20.832Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:19:11.904Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:19:11.963Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hashSync (C:\Users\HP\maishakhurana\node_modules\bcrypt\bcrypt.js:91:15)
+    at _callee$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:9:23)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Users\HP\maishakhurana\src\services\/user.service.js:6:26)
+    at _callee$ (C:\Users\HP\maishakhurana\src\controllers\/user.controller.js:6:36)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at registerUser (C:\Users\HP\maishakhurana\src\controllers\/user.controller.js:4:26)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (C:\Users\HP\maishakhurana\src\validators\/user.validator.js:16:5)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\HP\maishakhurana\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\HP\maishakhurana\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\Users\HP\maishakhurana\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\HP\maishakhurana\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\HP\maishakhurana\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\HP\maishakhurana\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\HP\maishakhurana\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\HP\maishakhurana\node_modules\raw-body\index.js:280:7) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:19:12.937Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:22:21.815Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:22:21.881Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:31:24.697Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:31:24.739Z"}
+error: 
+    status - 500 
+    message - ReferenceError: passwrd is not defined
+    at _callee2$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:20:33)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:31:45.897Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:35:34.331Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:35:34.372Z"}
+error: 
+    status - 500 
+    message - ReferenceError: passwrd is not defined
+    at _callee2$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:20:34)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:35:35.397Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:36:09.199Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:36:09.234Z"}
+error: 
+    status - 500 
+    message - ReferenceError: passwrd is not defined
+    at _callee2$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:20:34)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:36:12.110Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:37:10.100Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:37:10.149Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:38:30.289Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:38:30.333Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:20:38)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:38:31.197Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:20:38)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T10:46:09.046Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T10:49:04.477Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T10:49:04.506Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T11:03:01.397Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T11:03:01.425Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T11:04:25.889Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T11:04:25.926Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:20:38)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T11:04:27.393Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T13:53:53.065Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T13:53:53.109Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T13:57:02.691Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T13:57:02.781Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:21:38)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T13:57:03.722Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:21:38)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T14:00:27.430Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T14:10:21.229Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T14:10:21.271Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T14:10:42.467Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T14:10:42.498Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (C:\Users\HP\maishakhurana\src\services\/user.service.js:21:38)
+    at tryCatch (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\maishakhurana\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T14:11:58.365Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T14:31:24.591Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T14:37:53.162Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T14:37:53.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T14:39:30.857Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T14:39:30.946Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:38)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T14:39:48.709Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:38)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T14:40:02.249Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:38)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T14:46:59.068Z"}
+error: 
+    status - 500 
+    message - ReferenceError: Passwrd is not defined
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:38)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T14:47:16.808Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T16:25:53.792Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T16:25:53.875Z"}
+error: 
+    status - 500 
+    message - ReferenceError: users is not defined
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:38)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:26:04.846Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T16:26:57.531Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T16:26:57.576Z"}
+error: 
+    status - 500 
+    message - ReferenceError: hash is not defined
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:52)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:27:31.298Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T16:28:43.835Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T16:28:43.951Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compareSync (E:\Fundoo_test\node_modules\bcrypt\bcrypt.js:166:15)
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:26)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:28:44.410Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T16:29:27.529Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T16:29:27.585Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T16:29:46.583Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T16:29:46.624Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compareSync (E:\Fundoo_test\node_modules\bcrypt\bcrypt.js:166:15)
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:26)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:29:47.828Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compareSync (E:\Fundoo_test\node_modules\bcrypt\bcrypt.js:166:15)
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:26)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:29:51.124Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compareSync (E:\Fundoo_test\node_modules\bcrypt\bcrypt.js:166:15)
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:21:26)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:29:52.669Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T16:31:07.563Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T16:31:07.600Z"}
+error: 
+    status - 500 
+    message - Error: passwrd incorret
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:25:13)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:31:08.369Z"}
+error: 
+    status - 500 
+    message - Error: passwrd incorret
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:25:13)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:31:24.835Z"}
+error: 
+    status - 500 
+    message - Error: passwrd incorret
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:25:13)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:32:18.685Z"}
+error: 
+    status - 500 
+    message - Error: passwrd incorret
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:25:13)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:33:46.854Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-19T16:36:03.671Z"}
+info: Connected to the database. {"timestamp":"2022-09-19T16:36:03.756Z"}
+error: 
+    status - 500 
+    message - Error: passwrd incorret
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:25:13)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:36:35.909Z"}
+error: 
+    status - 500 
+    message - Error: passwrd incorret
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:25:13)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:37:27.957Z"}
+error: 
+    status - 500 
+    message - Error: passwrd incorret
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:25:13)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:38:34.118Z"}
+error: 
+    status - 500 
+    message - Error: id is invalid
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:28:11)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:38:59.597Z"}
+error: 
+    status - 500 
+    message - Error: passwrd incorret
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:25:13)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:39:07.801Z"}
+error: 
+    status - 500 
+    message - Error: passwrd incorret
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:25:13)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-19T16:39:32.245Z"}

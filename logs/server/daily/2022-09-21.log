@@ -1,0 +1,1559 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:38:41.068Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:38:41.186Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:40:29.757Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:40:29.849Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:41:32.451Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:41:32.547Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:42:25.677Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:42:25.916Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:43:02.303Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:43:02.377Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:43:14.790Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:43:14.889Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:43:21.565Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:43:21.680Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:43:33.135Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:43:33.233Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:43:38.148Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:43:38.256Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:43:51.079Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:43:51.126Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:44:05.669Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:44:05.752Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:44:24.200Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:44:24.313Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:49:51.563Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:49:51.643Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:50:15.914Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:50:16.019Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:50:20.816Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:50:20.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:50:29.086Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:50:29.189Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:50:49.874Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:50:49.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:50:59.373Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:50:59.449Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:51:06.308Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:51:06.380Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:52:40.508Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:52:40.595Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:52:44.801Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:52:44.883Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:53:01.543Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:53:01.634Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:53:42.835Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:53:42.924Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-20T18:53:48.463Z"}
+info: Connected to the database. {"timestamp":"2022-09-20T18:53:48.542Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T15:54:13.476Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T15:54:13.524Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Title" length must be at least 6 characters long 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:37:20.890Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Descreption" length must be at least  characters long 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:37:34.702Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Descreption" length must be at least  characters long 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:37:50.339Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Descreption" length must be at least  characters long 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:37:59.690Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:38:51.294Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:38:51.353Z"}
+error: 
+    status - 500 
+    message - Error: The string type does not allow arguments
+    at new module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at Object.string (E:\Fundoo_test\node_modules\@hapi\joi\lib\index.js:57:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:21:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:38:57.703Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:41:38.281Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:41:38.348Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:41:46.411Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:41:46.437Z"}
+error: 
+    status - 500 
+    message - Error: The string type does not allow arguments
+    at new module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at Object.string (E:\Fundoo_test\node_modules\@hapi\joi\lib\index.js:57:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:21:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:41:52.352Z"}
+error: 
+    status - 500 
+    message - Error: The string type does not allow arguments
+    at new module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at Object.string (E:\Fundoo_test\node_modules\@hapi\joi\lib\index.js:57:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:21:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:42:50.422Z"}
+error: 
+    status - 500 
+    message - Error: The string type does not allow arguments
+    at new module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at Object.string (E:\Fundoo_test\node_modules\@hapi\joi\lib\index.js:57:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:21:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:43:00.148Z"}
+error: 
+    status - 500 
+    message - Error: The string type does not allow arguments
+    at new module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at Object.string (E:\Fundoo_test\node_modules\@hapi\joi\lib\index.js:57:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:21:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:44:51.607Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:47:41.434Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:47:41.463Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Descreption" length must be at least  characters long 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:48:47.700Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:49:07.404Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:49:07.482Z"}
+error: 
+    status - 500 
+    message - Error: The string type does not allow arguments
+    at new module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at Object.string (E:\Fundoo_test\node_modules\@hapi\joi\lib\index.js:57:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:21:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:49:15.702Z"}
+error: 
+    status - 500 
+    message - Error: The string type does not allow arguments
+    at new module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at Object.string (E:\Fundoo_test\node_modules\@hapi\joi\lib\index.js:57:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:21:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:49:22.437Z"}
+error: 
+    status - 500 
+    message - Error: The string type does not allow arguments
+    at new module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (E:\Fundoo_test\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at Object.string (E:\Fundoo_test\node_modules\@hapi\joi\lib\index.js:57:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:21:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:49:50.004Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:52:43.585Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:52:43.620Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:52:50.517Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:52:50.571Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:52:53.425Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:53:09.814Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:53:37.665Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:53:37.731Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Title" length must be at least  characters long 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:53:38.334Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:54:00.902Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:54:00.974Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:54:08.041Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:54:08.197Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:54:08.290Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:55:58.446Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:56:16.683Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:56:16.751Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:56:24.451Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:56:24.534Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T16:56:46.291Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T16:56:46.374Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T16:56:47.613Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:01:28.657Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:02:58.843Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:04:40.915Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:05:14.560Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:05:16.004Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:05:45.905Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:05:45.971Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:05:54.888Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:05:54.923Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:06:15.037Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:08:07.489Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:08:07.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:10:10.182Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:10:10.261Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:10:20.098Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:10:20.126Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:10:36.515Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:10:36.564Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:10:38.870Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:12:51.485Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:12:51.572Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:13:03.680Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:13:03.764Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:13:06.234Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:13:48.240Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:13:48.308Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 33
+    at JSON.parse (<anonymous>)
+    at parse (E:\Fundoo_test\node_modules\body-parser\lib\types\json.js:89:19)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:14:57.023Z"}
+error: 
+    status - 500 
+    message - Error: id is invalid
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:41:11)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:15:59.079Z"}
+error: 
+    status - 500 
+    message - Error: id is invalid
+    at _callee2$ (E:\Fundoo_test\src\services\/user.service.js:41:11)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:16:56.708Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/note/note 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-09-21T17:23:06.802Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/note/note 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-09-21T17:24:36.324Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:28:09.351Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:28:14.627Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T17:32:53.362Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T17:34:16.210Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T17:34:16.245Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T18:20:43.667Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T18:20:43.706Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid signature
+    at E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:133:19
+    at getSecret (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.verify (E:\Fundoo_test\node_modules\jsonwebtoken\verify.js:94:10)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at userAuth (E:\Fundoo_test\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at newNoteValidator (E:\Fundoo_test\src\validators\/user.validator.js:29:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\Fundoo_test\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\Fundoo_test\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\Fundoo_test\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\Fundoo_test\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\Fundoo_test\node_modules\express\lib\router\index.js:328:13)
+    at E:\Fundoo_test\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\Fundoo_test\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\index.js:280:10)
+    at E:\Fundoo_test\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (E:\Fundoo_test\node_modules\raw-body\index.js:231:16)
+    at done (E:\Fundoo_test\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (E:\Fundoo_test\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12) 
+    url - /api/v1/note/note 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-09-21T18:21:01.502Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T18:21:55.454Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T18:21:55.486Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-21T18:27:18.392Z"}
+info: Connected to the database. {"timestamp":"2022-09-21T18:27:18.442Z"}

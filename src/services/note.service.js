@@ -5,21 +5,23 @@ export const newNote = async (body) => {
   const note = await Note.create(body);
   return note;
 };
+//getall
 export const getAllNote = async (_id, body) => {
   console.log(body);
   const get = await Note.find();
   return get;
 };
+//getnote
 export const getNote = async (_id, body) => {
   console.log(body);
   const get = await Note.findById(_id);
   return get;
 };
+//update note
 export const updateNote = async (_id, body) => {
-  console.log(body);
   const update = await Note.findByIdAndUpdate(
     {
-      _id,
+      _id
     },
     body,
     {
@@ -28,18 +30,19 @@ export const updateNote = async (_id, body) => {
   );
   return update;
 };
+//deletenote
 export const deletenote = async (_id, body) => {
   console.log(body);
   const remove = await Note.findByIdAndDelete(_id);
   return remove;
 };
-export const archiveNote = async (_id) => {
+//archive note
+export const archiveNote = async (_id, body) => {
   console.log(body);
   const Hide = await Note.findByIdAndUpdate(
     {
       _id
     },
-
     {
       isArchived: true
     },
@@ -49,9 +52,10 @@ export const archiveNote = async (_id) => {
   );
   return Hide;
 };
-export const trashNote = async (_id) => {
+//trash note
+export const trashNote = async (_id, body) => {
   console.log(body);
-  const Hide = await Note.findByIdAndUpdate(
+  const remove = await Note.findByIdAndUpdate(
     {
       _id
     },
@@ -62,5 +66,5 @@ export const trashNote = async (_id) => {
       new: true
     }
   );
-  return Hide;
+  return remove;
 };

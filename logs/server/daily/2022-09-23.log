@@ -1,0 +1,303 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:30:11.813Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:30:11.849Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:31:24.939Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:31:24.972Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:31:30.672Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:31:30.717Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:31:37.565Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:31:37.599Z"}
+error: 
+    status - 500 
+    message - MongooseError: Callback must be a function, got [object Object]
+    at Function.Model.$handleCallbackError (E:\Fundoo_test\node_modules\mongoose\lib\model.js:5067:11)
+    at Function.findByIdAndUpdate (E:\Fundoo_test\node_modules\mongoose\lib\model.js:2694:19)
+    at _callee6$ (E:\Fundoo_test\src\services\/note.service.js:42:27)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (E:\Fundoo_test\src\services\/note.service.js:40:25)
+    at _callee6$ (E:\Fundoo_test\src\controllers\/note.controller.js:70:36)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at archiveNote (E:\Fundoo_test\src\controllers\/note.controller.js:68:25)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:23:5)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/note/isarchive/632c7e8507977f23ac7ee7cc 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-09-22T18:32:00.941Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:32:36.966Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:32:36.999Z"}
+error: 
+    status - 500 
+    message - MongooseError: Callback must be a function, got [object Object]
+    at Function.Model.$handleCallbackError (E:\Fundoo_test\node_modules\mongoose\lib\model.js:5067:11)
+    at Function.findByIdAndUpdate (E:\Fundoo_test\node_modules\mongoose\lib\model.js:2694:19)
+    at _callee6$ (E:\Fundoo_test\src\services\/note.service.js:42:27)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (E:\Fundoo_test\src\services\/note.service.js:40:25)
+    at _callee6$ (E:\Fundoo_test\src\controllers\/note.controller.js:70:36)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at archiveNote (E:\Fundoo_test\src\controllers\/note.controller.js:68:25)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:23:5)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/note/isarchive/632c7e8507977f23ac7ee7cc 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-09-22T18:39:10.774Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:40:30.310Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:40:30.383Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:41:12.598Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:41:12.636Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:41:27.727Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:41:27.768Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:41:33.112Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:41:33.138Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee6$ (E:\Fundoo_test\src\services\/note.service.js:41:15)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (E:\Fundoo_test\src\services\/note.service.js:40:25)
+    at _callee6$ (E:\Fundoo_test\src\controllers\/note.controller.js:70:36)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at archiveNote (E:\Fundoo_test\src\controllers\/note.controller.js:68:25)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:23:5)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/note/isarchive/632c7e8507977f23ac7ee7cc 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-09-22T18:41:47.779Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:42:10.494Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:42:10.566Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:49:32.814Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:49:32.891Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:49:59.141Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:49:59.210Z"}
+error: 
+    status - 500 
+    message - ReferenceError: isArchived is not defined
+    at _callee6$ (E:\Fundoo_test\src\services\/note.service.js:47:5)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (E:\Fundoo_test\src\services\/note.service.js:40:25)
+    at _callee6$ (E:\Fundoo_test\src\controllers\/note.controller.js:70:36)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at archiveNote (E:\Fundoo_test\src\controllers\/note.controller.js:68:25)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:23:5)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/note/isarchive/632c7e8507977f23ac7ee7cc 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-09-22T18:49:59.939Z"}
+error: 
+    status - 500 
+    message - ReferenceError: isArchived is not defined
+    at _callee6$ (E:\Fundoo_test\src\services\/note.service.js:47:5)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (E:\Fundoo_test\src\services\/note.service.js:40:25)
+    at _callee6$ (E:\Fundoo_test\src\controllers\/note.controller.js:70:36)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at archiveNote (E:\Fundoo_test\src\controllers\/note.controller.js:68:25)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:23:5)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/note/isarchive/632c81dce6151419b497a225 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-09-22T18:51:02.307Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:51:22.783Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:51:22.819Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:51:28.629Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:51:28.807Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee6$ (E:\Fundoo_test\src\services\/note.service.js:41:15)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (E:\Fundoo_test\src\services\/note.service.js:40:25)
+    at _callee6$ (E:\Fundoo_test\src\controllers\/note.controller.js:70:36)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at archiveNote (E:\Fundoo_test\src\controllers\/note.controller.js:68:25)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:23:5)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/note/isarchive/632c81dce6151419b497a225 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-09-22T18:51:50.493Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee6$ (E:\Fundoo_test\src\services\/note.service.js:41:15)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (E:\Fundoo_test\src\services\/note.service.js:40:25)
+    at _callee6$ (E:\Fundoo_test\src\controllers\/note.controller.js:70:36)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at archiveNote (E:\Fundoo_test\src\controllers\/note.controller.js:68:25)
+    at Layer.handle [as handle_request] (E:\Fundoo_test\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\Fundoo_test\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (E:\Fundoo_test\src\middlewares\/auth.middleware.js:23:5)
+    at tryCatch (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\Fundoo_test\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/note/isarchive/632c81dce6151419b497a225 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-09-22T18:51:53.202Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:52:16.835Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:52:16.894Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:53:19.947Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:53:19.982Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:59:47.646Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:59:47.711Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T18:59:56.358Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T18:59:56.383Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T19:00:19.122Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T19:00:19.191Z"}
+error: 
+    status - 500 
+    message - ValidationError: "Title" is required 
+    url - /api/v1/note/isarchive/632c81dce6151419b497a225 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-09-22T19:01:05.921Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-09-22T19:04:11.440Z"}
+info: Connected to the database. {"timestamp":"2022-09-22T19:04:11.468Z"}

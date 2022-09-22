@@ -29,7 +29,7 @@ export const getAllNote = async (req, res, next) => {
 
 export const getNote = async (req, res, next) => {
   try {
-    const data = await NoteService.getNote(req.param._id);
+    const data = await NoteService.getNote(req.params._id);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: data,
@@ -42,7 +42,7 @@ export const getNote = async (req, res, next) => {
 
 export const updateNote = async (req, res, next) => {
   try {
-    const data = await NoteService.updateNote(req.param._id, req.body);
+    const data = await NoteService.updateNote(req.params._id, req.body);
     res.status(HttpStatus.ACCEPTED).json({
       code: HttpStatus.ACCEPTED,
       data: data,
@@ -55,7 +55,7 @@ export const updateNote = async (req, res, next) => {
 
 export const deletenote = async (req, res, next) => {
   try {
-    const data = await NoteService.deletenote(req.param._id);
+    const data = await NoteService.deletenote(req.params._id);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
       data: data,
@@ -67,11 +67,11 @@ export const deletenote = async (req, res, next) => {
 };
 export const archiveNote = async (req, res, next) => {
   try {
-    const data = await NoteService.archiveNote(req.param._id);
+    const data = await NoteService.archiveNote(req.params._id, req.body);
     res.status(HttpStatus.ACCEPTED).json({
       code: HttpStatus.ACCEPTED,
       data: data,
-      message: 'data is archive successfully'
+      message: 'note is archive successfully'
     });
   } catch (error) {
     next(error);
@@ -79,11 +79,11 @@ export const archiveNote = async (req, res, next) => {
 };
 export const trashNote = async (req, res, next) => {
   try {
-    const data = await NoteService.trashNote(req.param._id);
+    const data = await NoteService.trashNote(req.params._id, req.isArchived);
     res.status(HttpStatus.ACCEPTED).json({
       code: HttpStatus.ACCEPTED,
       data: data,
-      message: 'data  trash successfully'
+      message: 'note  trash successfully'
     });
   } catch (error) {
     next(error);

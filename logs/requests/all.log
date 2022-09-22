@@ -534,3 +534,65 @@ info: ::1 - - [21/Sep/2022:18:35:31 +0000] "POST /api/v1/note/note HTTP/1.1" 500
 
 info: ::1 - - [21/Sep/2022:18:35:40 +0000] "POST /api/v1/note/note HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.2"
 
+info: ::1 - - [21/Sep/2022:19:09:35 +0000] "POST /api/v1/note/note HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:14:28:47 +0000] "POST /api/v1/note/note HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:14:35:17 +0000] "POST /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:14:35:55 +0000] "POST /api/v1/note/note HTTP/1.1" - - "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:24:42 +0000] "POST /api/v1/note/note HTTP/1.1" - - "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:25:58 +0000] "POST /api/v1/note/note HTTP/1.1" 201 224 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:40:12 +0000] "POST /api/v1/note/note HTTP/1.1" 201 224 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:40:38 +0000] "POST /api/v1/note/note HTTP/1.1" 500 86 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:40:46 +0000] "POST /api/v1/note/note HTTP/1.1" 201 226 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:41:13 +0000] "PUT /api/v1/note/632c81fee6151419b497a227 HTTP/1.1" 500 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:41:24 +0000] "PUT /api/v1/note/632c81fee6151419b497a227 HTTP/1.1" 500 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:41:25 +0000] "PUT /api/v1/note/632c81fee6151419b497a227 HTTP/1.1" 500 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:41:31 +0000] "DELETE /api/v1/note/632c81fee6151419b497a227 HTTP/1.1" 500 54 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:41:50 +0000] "POST /api/v1/note/note HTTP/1.1" 201 226 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:42:15 +0000] "GET /api/v1/note/632c823ee6151419b497a229 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:43:32 +0000] "GET /api/v1/632c823ee6151419b497a229 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:43:41 +0000] "GET /api/v1/note/632c823ee6151419b497a229 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:49:52 +0000] "GET /api/v1/note/632c823ee6151419b497a229 HTTP/1.1" 500 52 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:52:05 +0000] "GET /api/v1/note/632c823ee6151419b497a229 HTTP/1.1" 500 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:52:28 +0000] "POST /api/v1/note/note HTTP/1.1" 201 264 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:53:05 +0000] "DELETE /api/v1/note/632c84bc147d842e209ca447 HTTP/1.1" 500 54 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:53:49 +0000] "DELETE /api/v1/note/632c84bc147d842e209ca447 HTTP/1.1" 200 59 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:53:58 +0000] "GET /api/v1/note/632c84bc147d842e209ca447 HTTP/1.1" 500 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:54:29 +0000] "POST /api/v1/note/note HTTP/1.1" 201 264 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:54:54 +0000] "PUT /api/v1/note/632c85352238172790e2fef9 HTTP/1.1" 500 140 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:57:19 +0000] "PUT /api/v1/note/632c85352238172790e2fef9 HTTP/1.1" 500 140 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:58:10 +0000] "PUT /api/v1/note/632c85352238172790e2fef9 HTTP/1.1" 500 140 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:15:58:16 +0000] "GET /api/v1/note/632c85352238172790e2fef9 HTTP/1.1" 500 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:16:00:10 +0000] "GET /api/v1/note/632c85352238172790e2fef9 HTTP/1.1" 200 62 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:16:00:48 +0000] "GET /api/v1/note HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Sep/2022:16:00:56 +0000] "GET /api/v1/note/note HTTP/1.1" 200 62 "-" "PostmanRuntime/7.29.2"
+

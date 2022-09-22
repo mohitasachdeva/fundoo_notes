@@ -3,7 +3,6 @@ const userSchema = new Schema({
     Title: {
       type: String,
       required: true
-
     },
     Descreption: {
       type: String,
@@ -13,17 +12,18 @@ const userSchema = new Schema({
       type: String
     },
     isArchived: {
-      type: Boolean
+      type: Boolean,
+      default: false
     },
     isDeleted: {
-      type: Boolean
+      type: Boolean,
+      default: false
     },
     UserID: {
       type: String
     }
   },
-
-  {
+   {
     timestamps: true
   }
 );
